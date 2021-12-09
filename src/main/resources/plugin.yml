@@ -1,0 +1,7 @@
+name: Stats
+author: hopperW12
+main: cz.hopperw12.stats.Main
+version: 1.0
+api-version: 1.18
+commands:
+  stats:
